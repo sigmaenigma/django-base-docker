@@ -5,6 +5,9 @@ This document outlines how to set up a basic Django project within a Docker cont
 ## Prerequisites
 
 * Docker and Docker Compose installed.
+    * Linux/Ubuntu: [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
+    * MacOS: [https://docs.docker.com/desktop/setup/install/mac-install/](https://docs.docker.com/desktop/setup/install/mac-install/)
+    * Windows: [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/)
 
 ## Project Structure
 
